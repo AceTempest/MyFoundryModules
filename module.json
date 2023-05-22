@@ -1,0 +1,17 @@
+{
+  "name": "Lights Out Puzzle",
+  "title": "Lights Out Puzzle",
+  "description": "A module that adds a easy-to-import Lights Out puzzle to FoundryVTT.",
+  "author": "Ace Tempest",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.8.8",
+  "scripts": [
+    "scripts/lights-out-puzzle.js"
+  ],
+  "assets": [
+    "assets/light-on.png",
+    "assets/light-off.png"
+  ],
+  "manifest": "module.json",
+  "download": ""
+}
