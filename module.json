@@ -12,6 +12,6 @@
     "assets/light-on.png",
     "assets/light-off.png"
   ],
-  "manifest": "module.json",
+  "manifest": "https://github.com/AceTempest/MyFoundryModules/blob/main/module.json",
   "download": ""
 }
