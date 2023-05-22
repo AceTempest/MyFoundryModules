@@ -12,6 +12,7 @@
     "assets/light-on.png",
     "assets/light-off.png"
   ],
-  "manifest": "https://github.com/AceTempest/MyFoundryModules/releases/tag/Test",
-  "download": "https://github.com/AceTempest/MyFoundryModules/releases/tag/Test"
+  "url": "https://github.com/AceTempest/MyFoundryModules",
+  "manifest": "https://github.com/AceTempest/MyFoundryModules/module.json",
+  "download": "https://github.com/AceTempest/MyFoundryModules/archive/refs/tags/Test.zip"
 }
