@@ -2,17 +2,20 @@
   "id": "lights-out-puzzle",
   "title": "Lights Out Puzzle",
   "description": "A module that adds a easy-to-import Lights Out puzzle to FoundryVTT.",
-  "author": "Ace Tempest",
+  "authors": [
+    {
+    "name": "Ace Tempest"
+    }
+    ],
   "version": "1.0.0",
-  "minimumCoreVersion": "10.*.*",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10"
+  }
   "scripts": [
     "scripts/lights-out-puzzle.js"
   ],
   "assets": [
     "assets/light-on.png",
     "assets/light-off.png"
-  ],
-  "url": "https://github.com/AceTempest/MyFoundryModules",
-  "manifest": "https://github.com/AceTempest/MyFoundryModules/module.json",
-  "download": "https://github.com/AceTempest/MyFoundryModules/archive/refs/tags/Test.zip"
 }
