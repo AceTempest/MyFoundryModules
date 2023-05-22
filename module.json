@@ -1,5 +1,5 @@
 {
-  "name": "Lights Out Puzzle",
+  "id": "lights-out-puzzle",
   "title": "Lights Out Puzzle",
   "description": "A module that adds a easy-to-import Lights Out puzzle to FoundryVTT.",
   "author": "Ace Tempest",
